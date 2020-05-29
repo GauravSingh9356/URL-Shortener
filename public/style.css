@@ -1,0 +1,36 @@
+#h2{
+    margin-bottom: 8px;
+}
+#text{
+    margin-top: 10px;;
+}
+body{
+    font-family: 'Gotu', sans-serif;
+  }
+
+  .heading{
+    border:15px solid DodgerBlue;
+    border-radius:20px;
+    display:inline-block;
+  }
+
+
+  .button{
+    margin-top:25px;
+  }
+
+  
+  .v{
+      width:fit-content;
+      height:fit-content;
+      color:black;
+      display:inline-block
+  }
+  #one{
+    margin-top:10px;
+    display: block;
+  }
+  #two{
+    margin-top:10px;
+        display: block;
+  }
